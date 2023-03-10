@@ -1,0 +1,23 @@
+tests_one:
+    path: /one
+    controller: App\Controller\TestsController::one
+
+tests_two:
+    path: /two
+    controller: App\Controller\TestsController::two
+
+tests_three:
+    path: /three
+    controller: App\Controller\TestsController::three
+
+tests_four:
+    path: /four
+    controller: App\Controller\TestsController::four
+
+tests_five:
+    path: /five
+    controller: App\Controller\TestsController::five
+
+tests_six:
+    path: /six
+    controller: App\Controller\TestsController::six
